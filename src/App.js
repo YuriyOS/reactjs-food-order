@@ -2,7 +2,7 @@ import Header from './components/Layout/Header';
 import Meals from './components/Meals/Meals';
 import CartProvider from './store/CartProvider';
 
-function test('test-text') {
+function test('test-text test-2') {
     return;
 }
 
